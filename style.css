@@ -1,0 +1,32 @@
+
+body {
+  background: #ffeafb;
+}
+p {
+  color: black;
+  clear: left;
+}
+h1 {
+  font-weight: bold;
+  color: #ffbbf2
+  
+    
+}
+
+h2 {
+  color: #ffbbf2
+    
+}
+
+img{
+  width: 600px;
+  height: 650px;
+  float: left;
+}
+
+a {
+  clear: left;
+}
+
+a{ 
+color: #ffbbf2
